@@ -12,6 +12,8 @@ Analysis and Challenges
 Results
 
   A conclusion which can be drawn from the “Theater Outcomes Based on Launch Date” is that there was a spike of successful outcomes when the launch date was in the months of May and June. As portrayed in the pivot table and chart, May had a success rate of 111 plays and June had a similar result of 100 plays. Secondly, another conclusion which can be made is that towards the very end of the year, the success rate and fail rate were almost identical. The pivot chart below shows the successful marker and failed marker meeting at almost the same value in the month of December. The success rate in this month was 37, while the fail rate was 35.
+  
+  A conclusion which can be drawn from the Outcomes Based on Goal" chart and analysis, is that the total number of plays which were canceled totalled to 0 across the board. As Louise's play "Fever" came close to its fundraising goal, it would be ideal if the other plays in her campaign were also not canceled so they would have an equal opportunity to   their fundraising goals.
 
     Possible limitations of this dataset may include that it is quite large, which means there is room for error. In addition to this, any incomplete values which are missing from the data may affect the outcome. This dataset also includes some outliers. Outliers may affect the mean specifically, by skewing the data so the mean is not completely accurate of the figures.
     
